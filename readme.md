@@ -56,9 +56,9 @@ tıkla, ürün bilgisi otomatik doldurulmuş bir WhatsApp mesajıyla atölyeye y
 ## Ekran Görüntüleri
 
 ### Admin Panel
-![Admin Panel](screenshot-admin1.png)
+![Admin Panel](nymu-aksesuar-admin-1.png)
 
-![Admin Panel](screenshot-admin2.png)
+![Admin Panel](nymu-aksesuar-admin-2.png)
 
 ---
 
