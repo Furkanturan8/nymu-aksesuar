@@ -2,6 +2,8 @@
 
 [nymuaksesuar.com](https://nymuaksesuar.com)
 
+[🇬🇧 English version](readme.en.md)
+
 Doğal taş ve inci takı üreten bir atölye için geliştirilmiş, **ürün kataloğu + WhatsApp
 sipariş akışı + tam yönetilebilir bir admin paneli**nden oluşan uçtan uca bir Next.js
 uygulaması. Ödeme/sepet altyapısı yok — amaç dijital bir vitrin: müşteri ürünü keşfeder,
