@@ -2,7 +2,7 @@
 
 [nymuaksesuar.com](https://nymuaksesuar.com)
 
-[🇹🇷 Türkçe versiyon](README.md)
+[🇹🇷 Türkçe versiyon](readme.md)
 
 An end-to-end Next.js application built for a natural stone and pearl jewelry workshop,
 consisting of a **product catalog + WhatsApp order flow + a fully manageable admin panel**.
